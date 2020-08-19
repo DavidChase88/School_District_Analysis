@@ -12,7 +12,13 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 The new district overall percent who passed decreased from 65.2% in the original analysis to 64.9% in the updated analysis. 
 The percent who passed reading decreased from 85.8% in the original analysis to 85.7% in the updated analysis. 
+
+![School_District_Analysis](Resources/Original_District_Summary.png)
+
 The percent who passed math decreased from 75.0% in the original analysis to 74.8% in the updated analysis.
+
+
+![School_District_Analysis](Resources/Updated_District_Summary.png)
 
 ### How is the school summary affected?
 
